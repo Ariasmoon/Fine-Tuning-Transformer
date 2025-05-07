@@ -1,4 +1,8 @@
-Étiqueteur Super-Senses avec Transformer pré-entraîné
+# Étiqueteur Super-Senses avec Transformer pré-entraîné
+
+![Langage](https://img.shields.io/badge/langage-Python-blue.svg)
+
+## Description
 
 Ce projet consiste à développer un étiqueteur de super-senses pour le français, basé sur des architectures Transformer (DistilBERT et CamemBERT). L’objectif est de comparer deux approches :
 
